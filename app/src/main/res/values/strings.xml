@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gerenciador de Arquivos</string>
+    <string name="empty_folder">Pasta vazia</string>
+    <string name="permission_title">Permissão necessária</string>
+    <string name="permission_message">Para navegar e gerenciar seus arquivos, o aplicativo precisa de acesso ao armazenamento.</string>
+    <string name="grant">Conceder</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">OK</string>
+    <string name="new_folder">Nova pasta</string>
+    <string name="new_file">Novo arquivo</string>
+    <string name="paste">Colar</string>
+    <string name="search">Pesquisar</string>
+    <string name="sort">Ordenar</string>
+    <string name="show_hidden">Mostrar ocultos</string>
+    <string name="go_home">Armazenamento interno</string>
+    <string name="refresh">Atualizar</string>
+    <string name="open">Abrir</string>
+    <string name="open_with">Abrir com…</string>
+    <string name="share">Compartilhar</string>
+    <string name="rename">Renomear</string>
+    <string name="copy">Copiar</string>
+    <string name="move">Mover</string>
+    <string name="delete">Excluir</string>
+    <string name="properties">Propriedades</string>
+    <string name="name">Nome</string>
+    <string name="select_all">Selecionar tudo</string>
+    <string name="cannot_read">Não é possível abrir \"%1$s\"</string>
+    <string name="no_results">Nenhum resultado</string>
+    <string name="internal_storage">Interno</string>
+    <string name="storage_info">%1$s livres de %2$s</string>
+    <string name="no_app">Nenhum aplicativo encontrado para abrir este arquivo</string>
+    <string name="share_folders">Pastas não podem ser compartilhadas</string>
+    <string name="search_hint">Pesquisar nesta pasta…</string>
+    <string name="paste_here">Colar aqui (%d)</string>
+    <string name="move_here">Mover para cá (%d)</string>
+    <string name="already_exists">Já existe um item com esse nome</string>
+    <string name="operation_failed">A operação falhou</string>
+    <string name="invalid_name">Nome inválido</string>
+    <string name="confirm_delete_one">Excluir \"%1$s\" permanentemente?</string>
+    <string name="confirm_delete_many">Excluir %1$d itens permanentemente?</string>
+    <string name="deleting">Excluindo…</string>
+    <string name="copying">Copiando…</string>
+    <string name="moving">Movendo…</string>
+    <string name="navigate_and_paste">navegue até o destino e toque em Colar</string>
+    <string name="paste_into_itself">Não é possível colar uma pasta dentro dela mesma</string>
+    <string name="some_failed">%d item(ns) falharam</string>
+    <string name="prop_name">Nome</string>
+    <string name="prop_path">Caminho</string>
+    <string name="prop_type">Tipo</string>
+    <string name="prop_size">Tamanho</string>
+    <string name="prop_modified">Modificado</string>
+    <string name="prop_permissions">Permissões</string>
+    <string name="prop_contents">Conteúdo</string>
+    <string name="folder">Pasta</string>
+    <string name="calculating">calculando…</string>
+    <string-array name="sort_options">
+        <item>Nome (A–Z)</item>
+        <item>Nome (Z–A)</item>
+        <item>Data (mais antigos)</item>
+        <item>Data (mais recentes)</item>
+        <item>Tamanho (menores)</item>
+        <item>Tamanho (maiores)</item>
+        <item>Tipo (A–Z)</item>
+        <item>Tipo (Z–A)</item>
+    </string-array>
+</resources>

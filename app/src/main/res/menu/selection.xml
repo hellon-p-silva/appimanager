@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/sel_copy" android:icon="@drawable/ic_copy"
+        android:title="@string/copy" android:showAsAction="ifRoom" />
+    <item android:id="@+id/sel_move" android:icon="@drawable/ic_cut"
+        android:title="@string/move" android:showAsAction="ifRoom" />
+    <item android:id="@+id/sel_share" android:icon="@drawable/ic_share"
+        android:title="@string/share" android:showAsAction="ifRoom" />
+    <item android:id="@+id/sel_delete" android:icon="@drawable/ic_delete"
+        android:title="@string/delete" android:showAsAction="ifRoom" />
+    <item android:id="@+id/sel_rename" android:title="@string/rename" android:showAsAction="never" />
+    <item android:id="@+id/sel_properties" android:title="@string/properties" android:showAsAction="never" />
+    <item android:id="@+id/sel_all" android:title="@string/select_all" android:showAsAction="never" />
+</menu>
